@@ -1,6 +1,6 @@
 package MeetingManager.controller;
 
-import MeetingManager.Meeting;
+import MeetingManager.model.Meeting;
 import org.springframework.stereotype.Component;
 
 import java.sql.*;

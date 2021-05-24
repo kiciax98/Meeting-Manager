@@ -1,6 +1,6 @@
 package MeetingManager.controller;
 
-import MeetingManager.Meeting;
+import MeetingManager.model.Meeting;
 import MeetingManager.service.MeetingService;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-package MeetingManager;
+package MeetingManager.model;
 
 public class Meeting {
     private int id;

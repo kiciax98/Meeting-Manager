@@ -1,6 +1,6 @@
 package MeetingManager.service;
 
-import MeetingManager.Meeting;
+import MeetingManager.model.Meeting;
 import MeetingManager.controller.DatabaseConnector;
 import org.springframework.stereotype.Service;
 
